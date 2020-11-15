@@ -1,0 +1,246 @@
+body {
+    font-family: 'Spectral', serif;
+    align-content: center;
+    margin: 0px;
+    text-align: center;
+    color: #40514E;
+}
+
+hr{
+   border: dotted #40514E 6px;
+   border-bottom: none;
+   width: 10%;
+}
+
+ h1 {
+    font-family: 'Sacramento', cursive;
+    padding-top: 80px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 5.6rem;
+    color: #66BFBF;
+ }
+
+ h2 {
+     font-family: 'Sansita Swashed', cursive;
+     font-size: 1.8rem;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     padding-top: 50px;
+     padding-bottom: 0px;
+     color: #66BFBF;
+}
+
+ h3 {
+     font-family: 'Sansita Swashed', cursive;
+     font-size: 1.8rem;
+     margin-top: 0px;
+     margin: 0px;
+     color: #11999E;
+ }
+.top-container {
+    background-color: #d3f3f3;
+    margin: 0px;
+    padding: 0px;
+    height: 700px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+
+.top-cloud {
+    position: absolute;
+    left: 1050px;
+    top: 5px;
+    padding-top: 10px;
+}
+
+.girl {
+    width: 280px;
+    height: 280px;
+    padding-top: 15px;
+}
+
+.skill-row1 {
+    position: absolute;
+    left: 25px;
+    top: 1200px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.skill-row2 {
+    position: absolute;
+    top: 1200px;
+    right: 5px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.skill-row3 {
+    position: absolute;
+    left: 95px;
+    top: 1610px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.skill-row4 {
+    position: absolute;
+    left: 800px;
+    top: 1610px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.skill-row5 {
+    position: relative;
+    top: 10px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.skill-row6 {
+    position: relative;
+    right: 760px;
+    bottom: 360px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.contact-me {
+    position: absolute;
+    right: 10px;
+    bottom: 50px;
+    top: 2500px;
+    left: 20px;
+    background-color: #66BFBF;
+    color: black;
+}
+.Bharatnatyam {
+    width: 150px;
+    height: 150px;
+}
+
+.internet-pic {
+    width: 150px;
+    height: 150px;
+}
+
+.code {
+    width: 150px;
+    height: 150px;
+}
+
+.music {
+    width: 150px;
+    height: 150px;
+}
+
+.computer {
+    width: 150px;
+    height: 150px;
+}
+
+.travel {
+    width: 150px;
+    height: 150px;
+}
+
+.a {
+    color: #11999E;
+}
+
+.getintouch {
+    font-family: 'Sansita Swashed', cursive;
+     font-size: 1.8rem;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     padding-top: 50px;
+     padding-bottom: 0px;
+     color: #11999E;
+}
+.getin {
+    font-family: 'Sansita Swashed', cursive;
+     font-size: 1.8rem;
+     margin-top: 0px;
+     margin: 0px;
+     color: #66BFBF;
+}
+
+.learner {
+    font-size: 1.2rem;
+    padding-bottom: 20px;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+.button {
+   background-color: #1EBFD0;
+   background-image: -webkit-linear-gradient(top, #F37E7E, #1EBFD0);
+   background-image: -moz-linear-gradient(top, #F37E7E, #1EBFD0);
+   background-image: -ms-linear-gradient(top, #F37E7E, #1EBFD0);
+   background-image: -o-linear-gradient(top, #F37E7E, #1EBFD0);
+   background-image: -webkit-gradient(to bottom, #F37E7E, #1EBFD0);
+   -webkit-border-radius: 83px;
+   -moz-border-radius: 83px;
+   border-radius: 83px;
+   color: #FDFDFD;
+   font-family: serif;
+   font-size: 30px;
+   font-weight: 600;
+   padding: 15px;
+   -webkit-box-shadow: 1px 1px 20px 0 #DD380D;
+   -moz-box-shadow: 1px 1px 20px 0 #DD380D;
+   box-shadow: 1px 1px 20px 0 #DD380D;
+   text-shadow: 10px 11px 5px rgba(48, 13, 118, 0.87);
+   border: dotted white 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 20px;
+   padding-top: 20px;
+}
+
+.button:hover {
+   border: dotted white 1px;
+   background-color: #1EBFD0;
+   background-image: -webkit-linear-gradient(top, #65FF60, #E5E968);
+   background-image: -moz-linear-gradient(top, #65FF60, #E5E968);
+   background-image: -ms-linear-gradient(top, #65FF60, #E5E968);
+   background-image: -o-linear-gradient(top, #65FF60, #E5E968);
+   background-image: -webkit-gradient(to bottom, #65FF60, #E5E968);
+   -webkit-border-radius: 22px;
+   -moz-border-radius: 22px;
+   border-radius: 22px;
+   text-decoration: none;
+}
+
+.mid {
+    padding-top: 20px;
+    padding-bottom: 90px;
+    margin-bottom: 90px;
+    font-size: 35px;
+}
+
+.middle-container {
+    padding-top: 30px;
+}
+
+.profile {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.hello5 {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+}
